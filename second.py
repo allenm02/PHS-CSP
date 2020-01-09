@@ -1,13 +1,2 @@
-loop_number = 0
-while loop_number != 4:
-	print(0)
-	print(1)
-	print(2)
-	print(3)
-	print(4)
-	print(5)
-	print(6)
-	print(7)
-	print(8)
-	print(9)
-	loop_number += 1
+for num in range(0,10):
+	print(num)
